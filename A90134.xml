@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech, of Phillip Herbert, late Earl of Pembroke. At his admittance (as a member) into the honorable House of Commons, in Parliament assembled. Aprill 16th. 1649. After he had been duely elected a burgess for Berkshire instead of Sir Francis Pile, lately deceased. / Taken verbatim by Michael Oldisworth.</title>
+            <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90134</idno>
+            <idno type="STC">Wing O257</idno>
+            <idno type="STC">Thomason E551_6</idno>
+            <idno type="STC">ESTC R205674</idno>
+            <idno type="EEBO-CITATION">99864986</idno>
+            <idno type="PROQUEST">99864986</idno>
+            <idno type="VID">117219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117219)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E551[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech, of Phillip Herbert, late Earl of Pembroke. At his admittance (as a member) into the honorable House of Commons, in Parliament assembled. Aprill 16th. 1649. After he had been duely elected a burgess for Berkshire instead of Sir Francis Pile, lately deceased. / Taken verbatim by Michael Oldisworth.</title>
+                  <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+                  <author>Oldisworth, Michael, 1591-1654?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 20 th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117219:1"/>
+            <pb facs="tcp:117219:1" rendition="simple:additions"/>
+            <p>THE SPEECH, OF Phillip Herbert, <hi>Late Earl of</hi> PEMBROKE.</p>
+            <p>At his Admittance (as a <hi>Member</hi>) into the Honorable Houſe OF COMMONS, <hi>In</hi> Parliament <hi>Aſſembled.</hi> Aprill 16. 1649.</p>
+            <p>
+               <hi>After he had been duely</hi> Elected <hi>a Burgeſs</hi> for <hi>Berkſhire</hi> in ſtead of Sir <hi>Francis Pils,</hi> lately diſceaſed.</p>
+            <p>
+               <hi>Taken</hi> Verbatim <hi>by</hi> Michael Oldiſworth.</p>
+            <p>Printed in the Yeer. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:117219:2"/>
+            <pb n="3" facs="tcp:117219:2"/>
+            <head>THE SPEECH, OF Phillip Herbert, <hi>Late Earl of</hi> PEMBROKE.</head>
+            <head type="sub">Many worthy Members, comming out of the Houſe, received his Honer in with all respect, as a Member elected by the County of <hi>Berkſhire,</hi> in ſtead of Sir <hi>Francis Pile</hi> diſceaſed, where being no ſooner outred but he spake as followeth.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>FOr ſo I can but now rightly call you all, though I know there be amongſt you many worthy Lords, Knights and Burgeſſes; yet ſince all Domination and Lordſhip is cryed down by the People, I think it my Duty to lay down the vanity of my <hi>Titles</hi> at the feet of this Supreame <hi>Authority,</hi> and <hi>Sinke me.</hi> I hold it the beſt Pollicy ſo to doe; and the beſt honeſty too; LORDS, EARLS, KINGS, DUKES are all but <hi>Markes</hi> of the
+<pb n="4" facs="tcp:117219:3"/>
+               <hi>Gentiles,</hi> and cannot be proper to us Chriſtians, that ſhould have wit enough to <hi>Rule</hi> our ſelves, and not <hi>exerciſe Lordſhip</hi> over our brethren, he that would be <hi>chief among you,</hi> let him be your <hi>ſer<g ref="char:EOLhyphen"/>vant, Damme,</hi> I have been your Servant, and will be your ſervant till death, I am an <hi>elect Member of this Houſe,</hi> and no <hi>Ruler;</hi> nei<g ref="char:EOLhyphen"/>ther have I any deſire to Rule: for a Ruler ſhould have his <hi>rule,</hi> 'Zblood, doe ye make a Carpenter, or a Coxcombe on me, that ye think Ile be a <hi>ruler; Sinck me,</hi> I grow Old, it is enough for me to Rule my Horſe, and not to aſſume a <hi>Power</hi> to Rule others, for Ruling LORDS in an <hi>over-ruling ſcence,</hi> is a <hi>thing</hi> that ſtands nei<g ref="char:EOLhyphen"/>ther with <hi>reaſon, law, juſtice</hi> nor Chriſtianity; <hi>D<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>,</hi> I thinke <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> lawfully <hi>Elected,</hi> and have as <hi>good quallities as another,</hi> and therefore may claime, have, and make uſe of any <hi>Priviledge</hi> of Parliament, either in relation to my Perſon. Quallitie or Eſtate; <hi>Sink me</hi> and <hi>Damme,</hi> if I <hi>exerciſe Lordſhip</hi> over a worme: Judge me, I am as proud of <hi>Phillip Herbert,</hi> or <hi>Burgeſse</hi> of Berkſhire, as I am of Earle of <hi>Pembroke,</hi> and my Reaſon, <hi>(Mr. Speaker) is this,</hi> I was PHILLIP HERBERT before I was Earle of <hi>Pembroke,</hi> and now I am Burgeſſe for Berkſhire, and I Barke not, and bawle not, (if I ſee occaſion) as well as the beſt — of you all, then let the County that chooſe me their <hi>miniſter,</hi> and <hi>ſervant,</hi> complain of me, or turn me <hi>out,</hi> and <hi>chooſe</hi> another; No, Sink me, the Country ought not to be at the charge of keeping <hi>Doggs,</hi> and bark themſelves, or feed their <hi>Dogges</hi> ſo <hi>high</hi> and luſty, that like <hi>Acteons,</hi> they devour their Maſters: Pardon me, (Mr. <hi>Speak<g ref="char:EOLhyphen"/>er</hi>) I hope you doe not conceive that I call the Parliament Dogs, I ſpeak concerning their vigillancy, to preſerve their Maſters E<g ref="char:EOLhyphen"/>ſtates, and in that point, I may (in my blunt language) liken them to Doggs; but every <hi>like is not the ſame;</hi> Mr. Speaker, conceive me aright, I would have you not to be Doggs, but as dogges, that is as I conceive, not to be Dumb <hi>doggs;</hi> I ſhall ever hate a dumb Dogg, but SIR, I know you are no dumbe Dogge, becauſe you are <hi>Speaker.</hi>
+            </p>
+            <p>
+               <hi>Gentlemen,</hi>—<lb/>
+I am now received in, and made a <hi>Member</hi> of this honorable Houſe of <hi>Commons,</hi> though it be a thing <hi>ſtrange,</hi> and not <hi>common</hi> in <hi>England</hi> for an Earl (as not long ſince I held my ſelf to be) and a Member of the LORDS Houſe to be made a Commoner,
+<pb n="5" facs="tcp:117219:3"/>or removed from the upper end to the Lower end of the Table, I am not ſo void of Underſtanding, or <hi>common</hi> Scenſe, as not to think my ſelf highly honored therwith, I am no reſpecter of Per<g ref="char:EOLhyphen"/>ſons or Places Sir, I know how to humble my ſelf, and doe ac<g ref="char:EOLhyphen"/>knowledge it my Duty, not onely to lay downe my <hi>Titles and Dignities,</hi> but my life and <hi>Honors</hi> for the Good of the Common-Wealth,—<hi>Damme,</hi> 'tis not my Wealth that I prize above the Common-Wealth, though I love both, and would doe my utter<g ref="char:EOLhyphen"/>moſt to preſerve both, which I take to be the chief Cauſe of the Peoples chuſing me to be their <hi>Repreſentative;</hi> 'Tis true, I was formerly choſen Chancellor of <hi>Oxford,</hi> not onely by this honor<g ref="char:EOLhyphen"/>able Houſe, but the Houſe of LORDS then being, but conſidering my weak <hi>abillities</hi> in Divinity, being (I thank God) little troubl'd with the ſame, nor guilty of any more confuſed or confounding <hi>langvages,</hi> then my owne <hi>Mother-tongue,</hi> and for <hi>Arts</hi> and Scien<g ref="char:EOLhyphen"/>ces, they never ſhall trouble my head, I hold it my beſt Art and Science to preſerve myſelf and my Eſtate, and get more if I can; <hi>Damme,</hi> he that cares not for his Wealth, can never care for the Common-Wealth, for how can he that will not doe good for himſelf, doe good for Others; Charity ought to begin at home Mr. <hi>Speaker.</hi>
+            </p>
+            <p>Truly Gentlemen, I know not what <hi>errors</hi> are lately crept in<g ref="char:EOLhyphen"/>to that Univerſity, but at my laſt Viſitation I think I plagu'd them to purpoſe; <hi>Confound me,</hi> they had as good to have been Viſited with the <hi>plague</hi> as with me, for I ſpar'd none, right or rong, <hi>Dam<g ref="char:EOLhyphen"/>me,</hi> I think the Univerſity was never better weeded ſince it was a Univerſity, I pull'd up all the Popiſh <hi>Poppies,</hi> the Malignant <hi>may<g ref="char:EOLhyphen"/>weed,</hi> the <hi>thiſtles</hi> and <hi>hemlock</hi> that choaked the wheate, <hi>Damme,</hi> they had nigh choak'd me with fuming and ſwearing at them, a Pox of their Reaſons, they were <hi>logick</hi> to me, for I could under<g ref="char:EOLhyphen"/>ſtand not one of them, and if I could, I would not, I had no ſuch Order in my <hi>Inſtructions,</hi> I acted as vigorouſly as God would give me leave; I ſpar'd nere a ſonne of <hi>Rome</hi> amongſt them all, <hi>Damme,</hi> not my own Godſon; 'Zblood, if my Father had been there a <hi>Schollar,</hi> and Popiſhly affected, (as I was told they were) he ſhould have turn'd out with the reſt, M. <hi>Speaker,</hi> I hate a turn-coat and a Black-coat too. I love a Buffe-coat, or Miſtris <hi>Mays</hi> Petty-coat, better then Popiſh Canonicall <hi>coats,</hi> Damme, if ye
+<pb n="6" facs="tcp:117219:4"/>were all of my minde <hi>(Gentlemen)</hi> you would pull down the Uni<g ref="char:EOLhyphen"/>verſities, they are but the Nurſes of Learning and Superſtition; <hi>Damme,</hi> Learning and Superſtition hath occaſioned all theſe Warres, and Blood; <hi>Refuſe me,</hi> I had rather be a <hi>Sculler</hi> then a <hi>Schollar,</hi> theſe <hi>Arts</hi> and <hi>Sciences</hi> (as they call them) are dangerous Enemies to the <hi>State,</hi> and ſteale and draw away the hearts and af<g ref="char:EOLhyphen"/>fections of the <hi>People</hi> from <hi>Martiall Affaires;</hi> and therefore (in my ſimple judgement) it would redound much to the ſtrengthen<g ref="char:EOLhyphen"/>ing of the <hi>State,</hi> to change the property of them, and in ſtead of making them Nurceries of <hi>learning,</hi> to make them <hi>fencing</hi> Schools, or Nurceries of <hi>Warre; Damme,</hi> this Kingdom has more need of <hi>Warring</hi> then <hi>learning,</hi> for all Chriſtendom threatens Us; therefore (Mr. <hi>Speaker</hi>) let us not alwayes be fooles, 'Zblood, I have ſo much witt in my Block-head, That if I ſee a <hi>storme</hi> a comming, I can provide for ſhelter, the very <hi>hooggs</hi> teach me that, <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> I hate <hi>human learning, Damme</hi> I can learne as good a leſſon from a <hi>hogge,</hi> a <hi>horſe,</hi> a <hi>Dogge</hi> or a <hi>Catt,</hi> as from the beſt Divine in <hi>England;</hi> Pox, am I not a <hi>lay</hi>-man? and can I <hi>lay</hi> out my time in in any thing better then <hi>lay learning;</hi> Beſides I am a <hi>Stateſman,</hi> (I know nothing to the contrary) but that I may <hi>ſtate</hi> my Queſtion then, That as I am no <hi>divine,</hi> ſo that J may not meddle any more with <hi>divinity,</hi> J am no <hi>ruler,</hi> and therefore, if they cannot learne the Witt to rule themſelves, let them be unrul'd; for J have done my part with them; <hi>Gentlemen,</hi> J hold the Chancellorſhip a fitter place for my Man <hi>Oldiſworth,</hi> or Mr. <hi>Peters</hi> then my ſelf, and there<g ref="char:EOLhyphen"/>fore if your <hi>wiſdoms</hi> think fit, J deſire to be diſcharged therefrom, becauſe the <hi>ſelf-denying Ordinance</hi> forbids (as J take it) to hold two Places in the <hi>Common-wealth,</hi> therefore J deſire to leave the one to the intent, that J may minde, and apply my ſelf the better to the other; <hi>Damme,</hi> J cannot ſerve two maſters, the Church and the <hi>State</hi> too, God and the — Parliaments; if it pleaſe this honorable Houſe, (J conceive) one <hi>Office</hi> is enough for one man, therefore J ſhall betake my ſelf only to <hi>doe my Buſineſſe</hi> in this Houſe, that the County that <hi>chuſe</hi> me may be the better for it; <hi>Gentlemen,</hi> J need not be aſham'd to <hi>doe my buſineſſe</hi> in this Houſe, and was never <hi>backward</hi> ye know in any <hi>good office,</hi> and would <hi>ſtraine</hi> my ſelf as much for the good of the <hi>State,</hi> as Alder<g ref="char:EOLhyphen"/>man <hi>Adkins,</hi> or any <hi>Member</hi> of you all; &amp; ſhall <hi>untruſſe</hi> my purſe<g ref="char:EOLhyphen"/>ſtrings
+<pb n="7" facs="tcp:117219:4"/>too, upon any juſt and honeſt <hi>occaſion;</hi> Gentlemen, as J have alwayes lov'd you dearly, ſo J hope you will <hi>love</hi> me a<g ref="char:EOLhyphen"/>gaine, for my great Affection to you, ſhould draw your great Af<g ref="char:EOLhyphen"/>fection to me, and indeed, we are <hi>brethren,</hi> and <hi>brethren</hi> ought to love, and <hi>agree</hi> with one another; <hi>Damme,</hi> the very Devills can <hi>agree</hi> with one another, and cannot wee? 'Zblood, are we worſe then <hi>Devills?</hi> Our grand <hi>Enemy</hi> (the King) is now cut <hi>off,</hi> and muſt wee needs be <hi>enemyes</hi> to one another, and cut <hi>off one another too;</hi> Beleeve me, <hi>Lilburne</hi> deſerves to be hang'd, and <hi>Overton</hi> to be <hi>turn'd over</hi> a ladder, and <hi>Prince</hi> the Cheeſemonger to be ſerv'd in the ſame kinde, as the <hi>Prince</hi> of <hi>Wales,</hi> that they dare be ſo impu<g ref="char:EOLhyphen"/>dent bold as to tax the Parliament, or the Counſell of STATE with <hi>injuſtice,</hi> or <hi>Tyranny:</hi> Damme, 'Tis at leaſt Treaſon and Nonſcenſe but to think ſo, and, Sink me, 'tis a thouſand times worſe to ſay ſo, or to write ſo, and ſhew the People <hi>reaſon</hi> for it too; A <hi>Pox</hi> of all <hi>reaſons,</hi> and <hi>reaſonings</hi> for me, J never lov'd it in all my life; Zounds, <hi>break</hi> a mans head, and give him a <hi>reaſon</hi> for it, as the <hi>Scot</hi> ſerv'd me, when he ſwitch'd me over the face, broke my head with my own ſtaffe of <hi>office,</hi> and then gave me a <hi>reaſon</hi> for it, and that was all the ſatisfaction J could have for that Af<g ref="char:EOLhyphen"/>front, Damme I hate a <hi>Scott,</hi> as I hate a <hi>reaſon,</hi> and hate a <hi>reaſon</hi> as I hate the Devill, Reaſoning is neither better nor worſe then Treating, and we all Know, TREATING is a <hi>Malignant</hi> and an <hi>Enemy to the State,</hi> and if the <hi>Treaty</hi> had taken effect, 'Zblood we might all have been hang'd and Damm'd before this: No, <hi>reaſon</hi> is dangerous in a <hi>State;</hi> neither is the State bound to render any <hi>reaſon</hi> to <hi>Lilburne, Overton,</hi> or any body elſe for their Actions, or what ever they doe; had it not been for Reaſoning, wee had ſetled the <hi>Suprcame Authority</hi> on the People long agoe, and then we had had Peace, and a ſetled STATE; How ſimple is it to thinke that a Parliament is unjuſt, or can erre, thats a likely mat<g ref="char:EOLhyphen"/>ter indeed? No, Parliaments are choſen by the People, becauſe they cannot <hi>erre? KINGS</hi> may <hi>erre, as David,</hi> and the late King did; But when did you ever read in the <hi>Bible,</hi> that a Parliament could <hi>erre,</hi> or had <hi>erred.</hi> And thus <hi>I</hi> hope <hi>I</hi> have given you Satiſ<g ref="char:EOLhyphen"/>faction in this point.</p>
+            <p>For this your Act of Leavying <hi>Money, I</hi> give my free conſent, Pray what can be done without money, Damme, Souldiers that
+<pb n="8" facs="tcp:117219:5"/>fight for <hi>Money,</hi> muſt have money; and though J am no Souldier my ſelf, yet Damme, <hi>I</hi> love a Souldier with all my heart, and he that fights for money, let him winne Money, and (Sinke me,) if he winnes it, let him weare it <hi>too; Zblood,</hi> where ſhould we have money for <hi>Souldiers,</hi> but of the Countreys and Cities whom they fight to preſerve; unleſſe they would have us <hi>pay</hi> them out of <hi>our owne Eſtates;</hi> but ſurely there is none in this <hi>Honorable Houſe,</hi> but has more Frugallity, or at leaſt more Witt, then to part with any of their <hi>owne</hi> Eſtates; Doe we not labour, and ſpend our time for the <hi>Good of the</hi> Common-wealth, and ſhall the Common-wealth deny to ſpend their <hi>money</hi> for Us; Zblood, time is precious, (Mr. <hi>Speaker</hi>) and God refuſe me, wee have ſpent a long time in their Service (at leaſt Eight yeers) and can<g ref="char:EOLhyphen"/>not ſo much as have a good <hi>word for our paines;</hi> Ram me, Sinck me, and Damme me, it were a good deed to give <hi>over,</hi> and leave them to themſelves, and then we ſhould have a Kingdome well Governed; Damme, <hi>I</hi> am out of breath, and therefore will con<g ref="char:EOLhyphen"/>clude my Speech.</p>
+            <closer>Vera Copia, <signed>Your Affectionat <hi>Servant, PEMBROKE &amp; MONTGOMERY.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
